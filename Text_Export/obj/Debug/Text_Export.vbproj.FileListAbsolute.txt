@@ -1,1 +1,11 @@
 C:\Users\idaca\Desktop\Text_Export\Text_Export\bin\Debug\Text_Export.exe.config
+C:\Users\idaca\Desktop\Text_Export\Text_Export\bin\Debug\Text_Export.exe
+C:\Users\idaca\Desktop\Text_Export\Text_Export\bin\Debug\Text_Export.pdb
+C:\Users\idaca\Desktop\Text_Export\Text_Export\bin\Debug\Text_Export.xml
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.vbprojResolveAssemblyReference.cache
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.Form1.resources
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.Resources.resources
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.vbproj.GenerateResource.Cache
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.exe
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.xml
+C:\Users\idaca\Desktop\Text_Export\Text_Export\obj\Debug\Text_Export.pdb

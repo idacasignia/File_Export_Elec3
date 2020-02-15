@@ -112,6 +112,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ControlDark
         Me.ClientSize = New System.Drawing.Size(284, 261)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -123,7 +124,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "TEXT"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
